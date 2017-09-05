@@ -94,3 +94,4 @@ workflow-durable-task-step:2.11
 analysis-core:1.87
 workflow-cps-global-lib:2.8
 slack:2.2
+saml:1.0.3
